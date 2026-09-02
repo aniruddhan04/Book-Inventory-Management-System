@@ -16,8 +16,8 @@ import javax.swing.table.DefaultTableModel;
  */
 public class BookInvSysUI extends javax.swing.JFrame {
     private static final String username="root";
-    private static final String password="Anir12()320()4";
-    private static final String dbName="jdbc:mysql://localhost:3306/bookinvsys";
+    private static final String password="";
+    private static final String dbName="";
     
     Connection dbConn=null;
     PreparedStatement pst=null;
