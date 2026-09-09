@@ -9,3 +9,14 @@ A Java-based application for managing a book inventory, allowing users to add, s
 - **Book Filtering:** Filter and search books by title, author, genre, and other attributes
 - **CSV Export:** Export book inventory information to a CSV file
 - **Input Validation:** Prevent invalid or incomplete book information from being added
+---
+
+## License
+
+Released under the MIT License.
+
+---
+
+## Author
+
+Aniruddha Nandy
